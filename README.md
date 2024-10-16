@@ -12,7 +12,7 @@ This project implements a **String Calculator** using **Test-Driven Development 
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:MdHusainThekiya/string-calculator.git
    cd string-calculator
    ```
 
